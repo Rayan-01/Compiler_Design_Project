@@ -1,0 +1,2 @@
+int main() { int x , y , a , b ; cin >> x >> y >> a >> b ; x = a + b ; if ( x > y ) { cout << x << endl ; } }
+
